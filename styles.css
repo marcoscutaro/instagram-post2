@@ -1,0 +1,119 @@
+body {
+    background: rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main{
+    position: relative;
+}
+
+.container{
+    position: relative;
+}
+
+h2{
+    display: flex;
+    margin: 0;
+    font-size: 18px;
+    padding: 0;
+}
+
+h3{
+ 
+    margin: 0;
+    font-size: 14px;
+    padding: 0;
+}
+
+.photo_title{
+    width: 100%;
+    height: 60px;
+    display: inline-block;
+}
+
+.title{
+    width: 100%;
+    position: relative;
+    height: 50px;
+
+}
+
+.html5_icon{
+    float: left;
+    display: flex;
+    padding: 15px;
+
+}
+
+.sub_title{
+    float: left;
+    width: auto;
+    height: auto;
+    padding: 15px 0 15px 5px;
+  
+
+}
+
+
+
+.dots{
+    float: right;
+    width: 3%;
+    padding: 20px 5px 20px 0;
+}
+.myDiv {
+	width: 100%;
+    height: auto;
+    float: left;
+    margin: 40px 0 20px 0;
+    position:relative;
+    justify-content: center;
+    
+}
+
+.box {
+
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    background: white;
+    justify-content: center;
+   
+}
+
+.photo {
+    width: 100%;
+    height: 100%;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-flex; 
+}
+
+.icons {
+    width: 100%;
+    height: 30px;
+}
+
+.icon{
+    padding: 10px;
+    float: left;
+}
+
+.icon2{
+    padding: 2px;
+    padding: 10px;
+    float: right;
+}
+
+.text{
+    padding: 5px 10px 5px 10px;
+    width: 90%;
+    height: auto;
+    
+}
